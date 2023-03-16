@@ -1,0 +1,81 @@
+*Full Project in Excel with Interactive Dashboard*
+
+
+#Goal
+----------------------------------
+In this project will learn data cleaning, processing, analysis and dashboard creation in Excel. Complete data analytics project for data analyst in Excel
+will generate few insights and try to maximize the sales for Vrinda store.
+
+
+
+
+#Sample Questions to uncovered
+----------------------------------
+
+1. Compare the sales and orders using single chart
+2. which month got the highest sales and orders?
+3. who purchased more men or women in 2022?
+4. what are different order status in 2022?
+5. list top 5 sates contributing to the sales?
+6. relation between age and gender based on number  of orders
+7. which channel is contributing to maximum sales?
+8. highest selling category ? etc.
+
+
+#Steps -->
+--------------------------------------
+1. Clean data
+- In gender column there were M,W other then Men and Women hence replaced M with Men and W with  Women
+- In Qty column all quantity ordere were in numeric like 1,2,3,4 but there are two other categorical format too One and Two hence replaced these to 1 and 2
+
+
+2.Data Processing
+- divided age group in three categories below<30 (Teenagers), above 30 and below 50 (adults) > above 50 (senior citizen)
+- Extracted month from date column and added new column as Month
+
+
+3.Data analysis
+-----------------------------------------------
+
+
+#insights
+1. Most sales in march
+2. women sales most
+3. most of ordered delivered succesfully
+4. top 5 states
+5. women prime customer
+6. most sale by amazon,filpakart then myntra channel
+
+
+
+
+Sample Insights
+-Women are more likely to buy compared to men (~65%)
+-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+-Adult age group (30-49 yrs) is max contributing (~50%)
+-Amazon, Flipkart and Myntra channels are max contributing (~80%)
+
+
+Final Conclusion to improve Vrinda store sales:
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
